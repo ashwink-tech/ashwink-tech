@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Test Automation Tools, Web Development.  
 - 💬 Ask me about Quality, Test Automation, CI/CD Integrations.
 - 📫 How to reach me: ashwin.karangutkar@gmail.com 
-- 😄 Pronouns: HE/HIM 
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I worked as a Disc Jockey for about 8 years.
 
 <h3 align="left">Languages and Tools:</h3>
