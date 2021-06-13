@@ -28,5 +28,4 @@
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/ashwinkarangutkar/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" alt='twitter' height='40'>](https://twitter.com/thashwin)
-[<img src="https://img.icons8.com/color/48/000000/codepen.png" alt='codepen' height='40'>](https://codepen.io/theashwink)
 [<img src="https://img.icons8.com/color/48/000000/internet--v1.png" alt='website' height='40'>](https://ashwink.tech/)
