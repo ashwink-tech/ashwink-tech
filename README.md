@@ -26,7 +26,6 @@
 
 <h3 align="left">Connect with me at:</h3>
 
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt='github' height='40'>](https://github.com/AshwinK1989)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/ashwinkarangutkar/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" alt='twitter' height='40'>](https://twitter.com/thashwin)
 [<img src="https://img.icons8.com/color/48/000000/codepen.png" alt='codepen' height='40'>](https://codepen.io/theashwink)
