@@ -23,6 +23,11 @@
 [<img src="https://img.icons8.com/color/48/000000/jenkins.png" alt='jenkins' height='40'>](https://www.jenkins.io/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TeamCity_Icon.png/1200px-TeamCity_Icon.png" alt='teamcity' height='40'>](https://www.jetbrains.com/teamcity/)
 
+<h3 align="left">Blogs and Interviews:</h3>
+
+[<img src="https://img.icons8.com/color/48/000000/blogger.png" alt='blog' height='40'>](https://restservicestesting.blogspot.com/)
+[<img src="https://img.icons8.com/color/48/000000/interview.png" alt='interview' height='40'>](https://emnaayadi.com/2021/02/28/test-automation-journey/)
+
 
 <h3 align="left">Connect with me at:</h3>
 
