@@ -9,12 +9,6 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I worked as a Disc Jockey for about 8 years.
 
-
-<h3 align="left">Demo Project</h3>
-<a href="https://github.com/ashwink-tech/silver-invention">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwink-tech&repo=silver-invention&theme=dark" />
-</a>
-
 <h3 align="left">Languages and Tools:</h3>
 
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt='java' height='40'>](https://www.oracle.com/java/technologies/)
