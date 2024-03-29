@@ -1,11 +1,9 @@
 ![Hi all, I'm Ashwin](https://user-images.githubusercontent.com/16290315/121773348-0046b200-cb99-11eb-81a1-f3f47834e61d.png)
 
-- 🌱 I’m currently learning Full Stack Web Development (MERN Stack).
-- 👯 I’m looking to collaborate on Test Automation Tools, Web Development.  
+- 👯 I’m looking to collaborate on Test Automation.  
 - 💬 Ask me about Quality, Test Automation, CI/CD Integrations.
 - 📫 How to reach me: ashwin.karangutkar@gmail.com 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I worked as a Disc Jockey for about 8 years.
 
 <h3 align="left">Languages and Tools:</h3>
 
