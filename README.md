@@ -1,4 +1,6 @@
-![Hi all, I'm Ashwin](https://user-images.githubusercontent.com/16290315/121773348-0046b200-cb99-11eb-81a1-f3f47834e61d.png)
+Hi all, I'm Ashwin
+
+A passionate Test Automation Architect having more than 12 years of experience in building automation frameworks for Web, Mobile and API's with Selenium, Playwright, Appium, Rest Assured and some other cool libraries and frameworks.  
 
 - 💼 Actively looking for a new and exciting opportunity.  
 - 👯 I’m looking to collaborate on Test Automation.  
